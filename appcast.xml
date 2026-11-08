@@ -4,6 +4,16 @@
     <title>MdView</title>
     <link>https://github.com/gorbunov/mdview</link>
     <item>
+      <title>MdView 0.2.0</title>
+      <pubDate>Sun, 08 Nov 2026 18:49:23 +0000</pubDate>
+      <link>https://github.com/gorbunov/mdview/releases/tag/v0.2.0</link>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Welcome window with pinned and recent files, folders and notebooks; also in File → Open Recent and the Dock menu</li><li>Notebooks: create, rename and delete pages and folders in a personal wiki folder</li><li>[[Wiki links]] between pages; clicking a link to a missing page offers to create it</li><li>Search every page of a folder (⇧⌘F) and Go to Page (⌘K)</li><li>“Linked From” lists the pages that link to the current one</li><li>Renaming updates links that point to the page or folder</li><li>Folders refresh automatically when files change in other apps</li><li>Links open as in Safari: ⌘-click for a background tab, ⇧⌘-click for a new tab, ⌥⌘-click for a new window</li></ul>]]></description>
+      <enclosure url="https://github.com/gorbunov/mdview/releases/download/v0.2.0/MdView-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="EN4gPXVjjv5BpX9PK7EwLKjAtB1Q7KFu1G5IToHHMVCyUaUyDA/5W5gXK54Us0OdDOAJkwVRx5k/Z1Hr8woFCA==" length="7829396" />
+    </item>
+    <item>
       <title>MdView 0.1.1</title>
       <pubDate>Sun, 08 Nov 2026 16:29:22 +0000</pubDate>
       <link>https://github.com/gorbunov/mdview/releases/tag/v0.1.1</link>
