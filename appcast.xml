@@ -4,6 +4,16 @@
     <title>MdView</title>
     <link>https://github.com/gorbunov/mdview</link>
     <item>
+      <title>MdView 0.1.1</title>
+      <pubDate>Sun, 08 Nov 2026 16:29:22 +0000</pubDate>
+      <link>https://github.com/gorbunov/mdview/releases/tag/v0.1.1</link>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Links to web pages and other files now ask before opening and show where they lead.</li><li>Apps, scripts and installers are never launched from a document; MdView offers to show them in Finder instead.</li><li>Remote images are blocked until you click Load Remote Images. To always load them, turn on Settings → Privacy → Load remote images automatically.</li><li>Documents can only load local images, audio and video.</li></ul>]]></description>
+      <enclosure url="https://github.com/gorbunov/mdview/releases/download/v0.1.1/MdView-0.1.1.dmg" type="application/octet-stream" sparkle:edSignature="ukhACUp8w7PYwfFtKReiLmxz9T0815NfuTgkcQvIcgTjWYLdkwtP0bTjro99rfpRBar0NBoWYcCEz0BxBeIJAQ==" length="7244587" />
+    </item>
+    <item>
       <title>MdView 0.1.0</title>
       <pubDate>Sun, 08 Nov 2026 15:56:45 +0000</pubDate>
       <link>https://github.com/gorbunov/mdview/releases/tag/v0.1.0</link>
