@@ -4,6 +4,16 @@
     <title>MdView</title>
     <link>https://github.com/gorbunov/mdview</link>
     <item>
+      <title>MdView 0.4.3</title>
+      <pubDate>Tue, 10 Nov 2026 15:50:54 +0000</pubDate>
+      <link>https://github.com/gorbunov/mdview/releases/tag/v0.4.3</link>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fixed the blank Dock icon by loading the bundled app artwork explicitly at launch.</li></ul>]]></description>
+      <enclosure url="https://github.com/gorbunov/mdview/releases/download/v0.4.3/MdView-0.4.3.dmg" type="application/octet-stream" sparkle:edSignature="rjmdimEjl+a3NDAeat/AsYaoXq6/nCj8Vmh0/H52lq55Liasoav8C1Cx3m4R2nHW7csaX1mQhRcYrvaFkeqoCA==" length="10315478" />
+    </item>
+    <item>
       <title>MdView 0.4.2</title>
       <pubDate>Tue, 10 Nov 2026 15:39:13 +0000</pubDate>
       <link>https://github.com/gorbunov/mdview/releases/tag/v0.4.2</link>
