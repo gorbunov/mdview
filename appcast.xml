@@ -4,6 +4,16 @@
     <title>MdView</title>
     <link>https://github.com/gorbunov/mdview</link>
     <item>
+      <title>MdView 0.4.2</title>
+      <pubDate>Tue, 10 Nov 2026 15:39:13 +0000</pubDate>
+      <link>https://github.com/gorbunov/mdview/releases/tag/v0.4.2</link>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fixed the welcome window showing a generic placeholder instead of the MdView icon.</li><li>New warm-paper installer layout with a clear drag-to-Applications guide.</li></ul>]]></description>
+      <enclosure url="https://github.com/gorbunov/mdview/releases/download/v0.4.2/MdView-0.4.2.dmg" type="application/octet-stream" sparkle:edSignature="kDww8E67mF6h4ukmB0FomGNSjMHOE+29Zifgtg3F8OBy1d2w2cICsaU0Vc5rkm0wfTp4A4J+i1XQvUJnm2cGDg==" length="10314602" />
+    </item>
+    <item>
       <title>MdView 0.4.1</title>
       <pubDate>Tue, 10 Nov 2026 14:54:03 +0000</pubDate>
       <link>https://github.com/gorbunov/mdview/releases/tag/v0.4.1</link>
