@@ -4,6 +4,26 @@
     <title>MdView</title>
     <link>https://github.com/gorbunov/mdview</link>
     <item>
+      <title>MdView 0.4.0</title>
+      <pubDate>Tue, 10 Nov 2026 04:40:52 +0000</pubDate>
+      <link>https://github.com/gorbunov/mdview/releases/tag/v0.4.0</link>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Agent panel (✨ in a notebook window): run Claude Code, Codex or a custom command on a notebook, folder or page, with streaming output and follow-ups (Settings → Agents)</li><li>Checkpoints and a Changes view: see what an agent added, modified, deleted or renamed, with line diffs, and revert or accept</li><li>mdview command line tool (MdView → Install Command Line Tool…): open files and folders, query pages, links, backlinks, tags and search, check links, and create or move pages while updating links</li><li>File → Set Up Notebook for Agents… writes an AGENTS.md describing the notebook</li></ul>]]></description>
+      <enclosure url="https://github.com/gorbunov/mdview/releases/download/v0.4.0/MdView-0.4.0.dmg" type="application/octet-stream" sparkle:edSignature="FdZpSrKGhPF3Tr2aG1qzNiy7Inm29G88uRDUgOz4z/WMkNfU/SzqBqydrFgNtpxm/4Gk39O/gu8foQ2NVF1SBQ==" length="10040510" />
+    </item>
+    <item>
+      <title>MdView 0.3.0</title>
+      <pubDate>Mon, 09 Nov 2026 05:02:29 +0000</pubDate>
+      <link>https://github.com/gorbunov/mdview/releases/tag/v0.3.0</link>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>In-app Help (Help → MdView Help, ⌘?) with a Markdown cheat sheet, wiki link and tag guide, and keyboard shortcuts</li><li>Front matter tags with a sidebar Tags list and #tag search</li><li>Notebook Edit mode (⇧⌘E) and optional autosave</li><li>Missing Pages sidebar section; create pages from Go to Page</li></ul>]]></description>
+      <enclosure url="https://github.com/gorbunov/mdview/releases/download/v0.3.0/MdView-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="Kvnr3OjoOyCZDcb5bNFCxlZn+aCkPZIb18N1qdp0MrWDvXAf1CUQtYrDciZW36qpEXSZgRj+aRO+eIz7EdwyBA==" length="7994137" />
+    </item>
+    <item>
       <title>MdView 0.2.0</title>
       <pubDate>Sun, 08 Nov 2026 18:49:23 +0000</pubDate>
       <link>https://github.com/gorbunov/mdview/releases/tag/v0.2.0</link>
