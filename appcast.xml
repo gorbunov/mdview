@@ -4,6 +4,16 @@
     <title>MdView</title>
     <link>https://github.com/gorbunov/mdview</link>
     <item>
+      <title>MdView 0.4.6</title>
+      <pubDate>Wed, 11 Nov 2026 07:37:44 +0000</pubDate>
+      <link>https://github.com/gorbunov/mdview/releases/tag/v0.4.6</link>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fixed an empty File menu on the Welcome screen. Open files, folders, recent items, and create notebooks before opening a document.</li></ul>]]></description>
+      <enclosure url="https://github.com/gorbunov/mdview/releases/download/v0.4.6/MdView-0.4.6.dmg" type="application/octet-stream" sparkle:edSignature="1L5axDA388jkjDQ3wNaqmg6uOqpKSGD1SEzD+cNExbf67nH0DihY5I5tP+NDLrCNwtlnK6+FkULjq3dl60zZBA==" length="10348908" />
+    </item>
+    <item>
       <title>MdView 0.4.5</title>
       <pubDate>Wed, 11 Nov 2026 05:58:39 +0000</pubDate>
       <link>https://github.com/gorbunov/mdview/releases/tag/v0.4.5</link>
