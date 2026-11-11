@@ -4,6 +4,16 @@
     <title>MdView</title>
     <link>https://github.com/gorbunov/mdview</link>
     <item>
+      <title>MdView 0.4.5</title>
+      <pubDate>Wed, 11 Nov 2026 05:58:39 +0000</pubDate>
+      <link>https://github.com/gorbunov/mdview/releases/tag/v0.4.5</link>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Make MdView your default Markdown app from Settings, with current status and Finder instructions if the change fails.</li></ul>]]></description>
+      <enclosure url="https://github.com/gorbunov/mdview/releases/download/v0.4.5/MdView-0.4.5.dmg" type="application/octet-stream" sparkle:edSignature="j43r49mofZd458D6HS2DzteETw3DA66xcRP0I8SENWMET0WCUcxlm7rfVTd2c3SsbkDnSHOr9Zy/LKUQYJfSAw==" length="10348591" />
+    </item>
+    <item>
       <title>MdView 0.4.4</title>
       <pubDate>Wed, 11 Nov 2026 04:44:25 +0000</pubDate>
       <link>https://github.com/gorbunov/mdview/releases/tag/v0.4.4</link>
