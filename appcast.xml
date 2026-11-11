@@ -4,6 +4,16 @@
     <title>MdView</title>
     <link>https://github.com/gorbunov/mdview</link>
     <item>
+      <title>MdView 0.4.4</title>
+      <pubDate>Wed, 11 Nov 2026 04:44:25 +0000</pubDate>
+      <link>https://github.com/gorbunov/mdview/releases/tag/v0.4.4</link>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Click diagrams and images to zoom and pan, with Fit and 100% controls.</li><li>Choose wider inline diagrams and images independently in Reading settings.</li><li>Improved diagram label rendering and theme-aware styling with solid borders, subtle fills, and softly rounded corners.</li></ul>]]></description>
+      <enclosure url="https://github.com/gorbunov/mdview/releases/download/v0.4.4/MdView-0.4.4.dmg" type="application/octet-stream" sparkle:edSignature="6SecexpVWyIqYmJpm7rv62qL/p5726fScTcnhs3yNAF1irUoNmFtqimr9R194DzRHJiqvHLWK/qvFInc+68ACw==" length="10331097" />
+    </item>
+    <item>
       <title>MdView 0.4.3</title>
       <pubDate>Tue, 10 Nov 2026 15:50:54 +0000</pubDate>
       <link>https://github.com/gorbunov/mdview/releases/tag/v0.4.3</link>
